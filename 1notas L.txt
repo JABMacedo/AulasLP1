@@ -1,0 +1,17 @@
+
+grafos (estrutura de dados complexa)
+
+critical software - aveiro
+
+
+code fonte(source code)?
+direitos(copyright)?
+compilações versus interpretação?
+open source
+general public license?
+
+git?
+
+gcc-----> makefiles(automatizar um conjunto de processos)
+
+

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.20" xml:lang="en-US">
+  <compound refid="aula_8c" kind="file"><name>aula.c</name>
+    <member refid="aula_8c_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="dir_27cb0dfc6492ffe970619551261bff65" kind="dir"><name>IPCA/Semestre1/LinguagemProgramaçãoI/Exercicios/aulac</name>
+  </compound>
+  <compound refid="dir_d4cc1964c1257358cebc5221aadc91ed" kind="dir"><name>IPCA/Semestre1/LinguagemProgramaçãoI/Exercicios</name>
+  </compound>
+  <compound refid="dir_afee00700f36e7899066cbe84fca463d" kind="dir"><name>IPCA</name>
+  </compound>
+  <compound refid="dir_949eaf69b4965a3fa4fc026b2fe064eb" kind="dir"><name>IPCA/Semestre1/LinguagemProgramaçãoI</name>
+  </compound>
+  <compound refid="dir_fb6263de6da4ee50278f202f9aec3c0e" kind="dir"><name>IPCA/Semestre1</name>
+  </compound>
+</doxygenindex>

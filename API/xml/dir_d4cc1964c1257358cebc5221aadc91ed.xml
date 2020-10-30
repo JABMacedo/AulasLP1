@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_d4cc1964c1257358cebc5221aadc91ed" kind="dir">
+    <compoundname>IPCA/Semestre1/LinguagemProgramaçãoI/Exercicios</compoundname>
+    <innerdir refid="dir_27cb0dfc6492ffe970619551261bff65">IPCA/Semestre1/LinguagemProgramaçãoI/Exercicios/aulac</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="IPCA/Semestre1/LinguagemProgramaçãoI/Exercicios/"/>
+  </compounddef>
+</doxygen>

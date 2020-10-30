@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="dir_afee00700f36e7899066cbe84fca463d" kind="dir">
+    <compoundname>IPCA</compoundname>
+    <innerdir refid="dir_fb6263de6da4ee50278f202f9aec3c0e">IPCA/Semestre1</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="IPCA/"/>
+  </compounddef>
+</doxygen>
